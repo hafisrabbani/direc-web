@@ -1,0 +1,12 @@
+.my-logo {
+    min-width: 200px;
+    height: auto !important;
+}
+
+
+#auth #auth-right {
+    background-color: white !important;
+    background: url('../img/gedungpens.png') no-repeat center center fixed;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.884)), url('../img/gedungpens.png');
+    background-size: cover;
+}
